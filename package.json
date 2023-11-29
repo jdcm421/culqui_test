@@ -1,0 +1,11 @@
+{
+  "name": "culqui_test",
+  "version": "1.0.0",
+  "description": "Prueba de culqui test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Juan Diego Caceres",
+  "license": "ISC"
+}
