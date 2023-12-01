@@ -1,0 +1,74 @@
+{
+    "5ce01a4f-bfc3-4f3c-8dab-703e03e12c00": {
+        "token": "5ce01a4f-bfc3-4f3c-8dab-703e03e12c00",
+        "email": "email@dominio.com",
+        "card_number": "4561234556987456",
+        "cvv": "123",
+        "expiration_year": "2028",
+        "expiration_mount": "06",
+        "token_expiration": "2023-12-01T02:50:19.021Z"
+    },
+    "$2a$16$y85kGMwzzCiu0CiF6djizO": {
+        "token": "$2a$16$y85kGMwzzCiu0CiF6djizO",
+        "email": "email@dominio.com",
+        "card_number": "41829632587412",
+        "cvv": "123",
+        "expiration_year": "2028",
+        "expiration_mount": "06",
+        "token_expiration": "2023-12-01T02:50:19.021Z"
+    },
+    "$2a$16$LSztjMV3WFwy57QSlwYrZO": {
+        "token": "$2a$16$LSztjMV3WFwy57QSlwYrZO",
+        "email": "email@dominio.com",
+        "card_number": "4521563256324521",
+        "cvv": "123",
+        "expiration_year": "2028",
+        "expiration_mount": "06",
+        "token_expiration": "2023-12-01T02:28:19.021Z"
+    },
+    "$2a$16$v9tD3D.pKbCSmVvQDr0gIu": {
+        "token": "$2a$16$v9tD3D.pKbCSmVvQDr0gIu",
+        "email": "email@dominio.com",
+        "card_number": "45214523652365235632",
+        "cvv": "123",
+        "expiration_year": "2028",
+        "expiration_mount": "06",
+        "token_expiration": "2023-12-01T08:36:29.061Z"
+    },
+    "$2a$16$fsC2QnE8HVMT7sYs5Hp8iO": {
+        "token": "$2a$16$fsC2QnE8HVMT7sYs5Hp8iO",
+        "email": "email@dominio.com",
+        "card_number": "4521456345696",
+        "cvv": "123",
+        "expiration_year": "2028",
+        "expiration_mount": "06",
+        "token_expiration": "2023-12-01T08:39:33.756Z"
+    },
+    "$2a$16$fyw.45z2lGEOWgIKjlkphu": {
+        "token": "$2a$16$fyw.45z2lGEOWgIKjlkphu",
+        "email": "juanduie2343@gmai.com",
+        "card_number": "4521563245213",
+        "cvv": "34444",
+        "expiration_year": "2028",
+        "expiration_mount": "06",
+        "token_expiration": "2023-12-01T09:30:05.103Z"
+    },
+    "$2a$16$WSptWrGowiOO6EqL24Ocm.": {
+        "token": "$2a$16$WSptWrGowiOO6EqL24Ocm.",
+        "email": "juanduie2343@gmai.com",
+        "card_number": "4521563245211",
+        "cvv": "963",
+        "expiration_year": "2021",
+        "expiration_mount": "06",
+        "token_expiration": "2023-12-01T09:56:44.659Z"
+    },
+    "$2a$16$khkEehMWo43ZfiPPssGw.O": {
+        "token": "$2a$16$khkEehMWo43ZfiPPssGw.O",
+        "email": "juanduie2343@gmai.com",
+        "card_number": "4521563245214345",
+        "cvv": "963",
+        "expiration_year": "2028",
+        "expiration_mount": "06",
+        "token_expiration": "2023-12-01T11:58:54.862Z"
+    }
+}
